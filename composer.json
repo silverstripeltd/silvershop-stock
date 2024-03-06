@@ -10,7 +10,7 @@
     }],
 	"require": {
 		"silvershop/core": "3.x-dev",
-        "symbiote/silverstripe-gridfieldextensions": "*"
+        "symbiote/silverstripe-gridfieldextensions": "^3"
 	},
     "require-dev": {
         "phpunit/phpunit": "^5.7",
